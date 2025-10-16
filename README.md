@@ -64,40 +64,34 @@ futura de Android (API 36).
 
 
             ❎ <!--Tomar fotografía con cámara MediaStore.ACTION_IMAGE_CAPTURE Usa Activity y almacena la fotografia que quede en la galeria.-->
-             
-                ![TomarFotografiaCamara](https://github.com/user-attachments/assets/c02c1e1a-3f52-4f1a-991e-4f0d2f279670)
+                            
 ![TomarFotografiaCamara](https://github.com/user-attachments/assets/625c8d08-1570-451c-b1e7-8b8fee4e8fa7)
 
             ❎ <!--Seleccionar imagen de galería ACTION_GET_CONTENT con image/* Retorna URI, mostrar en ImageView.-->
                
-                 ![SeleccionarImageGaleria](https://github.com/user-attachments/assets/ac2fd140-d014-48cf-9d13-93347951c68d)
+![SeleccionarImageGaleria](https://github.com/user-attachments/assets/6282132e-0d14-476c-beb0-7ad2d3bf8db6)
 
             <!-- ❎ Abrir contactos del teléfono Intent.ACTION_PICK con ContactsContract.Contacts.CONTENT_URI Devuelve nombre o número. -->
-
-                ![AbrirContactoEmergencia](https://github.com/user-attachments/assets/19e5d97d-61d7-4e25-beb5-ba6c9d2ca4ac)
+![AbrirContactoEmergencia](https://github.com/user-attachments/assets/ce1277c4-b59f-4805-8042-993b62b0d44c)
 
             ❎ <!--Enviar SMS (interfaz del sistema) ACTION_SENDTO con smsto: Prellenar texto sin enviar automáticamente.-->
                 
-                ![EnviarSMSEmergencia](https://github.com/user-attachments/assets/6736ff39-efa2-4e0f-b45d-6f4fe5ec07f4)
+![EnviarSMSEmergencia](https://github.com/user-attachments/assets/12135b71-1a6a-48cf-bc54-f6f64d9aef41)
 
             ❎ <!--Llamar (mostrar marcador telefónico) ACTION_DIAL con tel: No requiere permiso CALL_PHONE.-->
 
-               ![LlamarContactoEmergencia](https://github.com/user-attachments/assets/8d6bab9a-920e-43d5-8625-c4f7aa5362c6)
+![LlamarContactoEmergencia](https://github.com/user-attachments/assets/44e78946-95b1-4373-855e-5798cd64c2e2)
 
 
     ✅Listado de intents explícitos:
 
-
             ❎<!--MainActivity → ConfigActivity (ajustes) Simular pantalla de ajustes interna Usa Toolbar con botón “Atrás”.-->
-
-                ![ToolbarVolverAtras](https://github.com/user-attachments/assets/adb456b8-1882-48dd-86d5-771bf56ba2cb)
+![ToolbarVolverAtras](https://github.com/user-attachments/assets/51d48bd1-6aa3-4fca-b85e-4dbac7654e3d)
 
             ❎<!--Abrir Activity con animación personalizada Agregar transición (overridePendingTransition) Mejora experiencia de usuario-->
 
-                ![TransicionNosotros](https://github.com/user-attachments/assets/64b8da78-1a3f-466b-a2c5-2ad974699334)
-
+![TransicionNosotros](https://github.com/user-attachments/assets/244528fa-687a-49d3-9c4e-1412b423f98a)
 
             ❎<!--//MainActivity → DetalleActivity (con datos extra) Mostrar detalle de un item Pasar extras (putExtra) y mostrar.-->
-
-                ![MostrarDatosputExtra](https://github.com/user-attachments/assets/97b6eba2-ce97-4c07-8d4d-5bcca914934e)
-
+            
+![MostrarDatosputExtra](https://github.com/user-attachments/assets/c79b2054-cf3a-4ce9-9ede-f449e7f1559b)
