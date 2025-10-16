@@ -66,6 +66,7 @@ futura de Android (API 36).
             ❎ <!--Tomar fotografía con cámara MediaStore.ACTION_IMAGE_CAPTURE Usa Activity y almacena la fotografia que quede en la galeria.-->
              
                 ![TomarFotografiaCamara](https://github.com/user-attachments/assets/c02c1e1a-3f52-4f1a-991e-4f0d2f279670)
+![TomarFotografiaCamara](https://github.com/user-attachments/assets/625c8d08-1570-451c-b1e7-8b8fee4e8fa7)
 
             ❎ <!--Seleccionar imagen de galería ACTION_GET_CONTENT con image/* Retorna URI, mostrar en ImageView.-->
                
