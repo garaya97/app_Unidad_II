@@ -66,26 +66,25 @@ futura de Android (API 36).
 
             ❎ <!--Tomar fotografía con cámara MediaStore.ACTION_IMAGE_CAPTURE Usa Activity y almacena la fotografia que quede en la galeria.-->
 
-                ![Tomar Fotografía con Cámara](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/TomarFotografiaCamara.gif)
+               <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/TomarFotografiaCamara.gif?raw=true" />
 
             ❎ <!--Seleccionar imagen de galería ACTION_GET_CONTENT con image/* Retorna URI, mostrar en ImageView.-->
-
-                ![Seleccionar Imagen Galería](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/SeleccionarImagenGaleria.gif)
-
+               
+                 <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/SeleccionarImageGaleria.gif?raw=true" />
 
             <!-- ❎ Abrir contactos del teléfono Intent.ACTION_PICK con ContactsContract.Contacts.CONTENT_URI Devuelve nombre o número. -->
 
-                ![Abrir Contacto Emergencia](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/AbrirContactoEmergencia.gif)
-
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/AbrirContactoEmergencia.gif?raw=true" />
 
             ❎ <!--Enviar SMS (interfaz del sistema) ACTION_SENDTO con smsto: Prellenar texto sin enviar automáticamente.-->
-
-                ![Enviar SMS Emergencia](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/EnviarSMSEmergencia.gif)
-
+                
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/EnviarSMSEmergencia.gif?raw=true" />
 
             ❎ <!--Llamar (mostrar marcador telefónico) ACTION_DIAL con tel: No requiere permiso CALL_PHONE.-->
 
                 ![Enviar SMS Emergencia](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/EnviarSMSEmergencia.gif)
+
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/LlamarContactoEmergencia.gif?raw=true" />
 
 
     ✅Listado de intents explícitos:
@@ -93,13 +92,12 @@ futura de Android (API 36).
 
             ❎<!--MainActivity → ConfigActivity (ajustes) Simular pantalla de ajustes interna Usa Toolbar con botón “Atrás”.-->
 
-                ![Toolbar Volver Atrás](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/ToolbarVolverAtras.gif)
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/ToolbarVolverAtras.gif?raw=true" />
 
             ❎<!--Abrir Activity con animación personalizada Agregar transición (overridePendingTransition) Mejora experiencia de usuario-->
 
-                ![Transición Nosotros](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/TransicionNosotros.gif)
-
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/TransicionNosotros.gif?raw=true" />
 
             ❎<!--//MainActivity → DetalleActivity (con datos extra) Mostrar detalle de un item Pasar extras (putExtra) y mostrar.-->
 
-                ![Mostrar Datos putExtra](https://raw.githubusercontent.com/garaya97/app_Unidad_II/Principal/app/gifs/MostrarDatosputExtra.gif)
+                <img src="https://github.com/garaya97/app_Unidad_II/blob/master/app/gifs/MostrarDatosputExtra.gif?raw=true" />
